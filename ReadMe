@@ -5,4 +5,4 @@ Hi this is Kubernetes project which was developed by me.
 # wordpress.yaml and my_sql_DB.yaml have the respective deployments.
 # services.yaml has service for wordpress and mysql pods.
 # persistent_volume.yaml will create volumes in cluster.
-# 
+# persistent_volume_claim.yaml has the claims for volumes in cluster.
