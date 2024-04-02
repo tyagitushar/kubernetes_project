@@ -1,1 +1,8 @@
-Hi this is Kubernetes projects which were repared by me
+Hi this is Kubernetes project which was developed by me.
+
+# we are going to deploy wordpress app which will used mysql as database to store data. we will create a persistent app through persistent volumes.
+# This app uses inbuild DNS feature for service discovery.
+# wordpress.yaml and my_sql_DB.yaml have the respective deployments.
+# services.yaml has service for wordpress and mysql pods.
+# persistent_volume.yaml will create volumes in cluster.
+# 
